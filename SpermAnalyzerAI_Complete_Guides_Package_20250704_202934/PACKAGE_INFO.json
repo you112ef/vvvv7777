@@ -1,0 +1,49 @@
+{
+  "package_name": "Sperm Analyzer AI - Complete Package",
+  "version": "1.0.0",
+  "build_date": "2025-07-04T20:29:34.243384",
+  "developer": "Youssef Shtaiwi",
+  "description": "Complete comprehensive package for Sperm Analyzer AI application",
+  "contents": {
+    "guides": [
+      "01_تثبيت_APK_التجريبي.md",
+      "02_بناء_APK_من_المصدر.md",
+      "03_تشغيل_الخادم.md",
+      "04_تخصيص_التطبيق.md",
+      "05_نشر_التطبيق.md",
+      "06_نبذة_المطور_يوسف_شطيوي.md"
+    ],
+    "applications": [
+      "Demo APK",
+      "Source Code",
+      "Backend Server"
+    ],
+    "additional_materials": [
+      "Quick Start Guide",
+      "Troubleshooting Guide",
+      "FAQ"
+    ]
+  },
+  "system_requirements": {
+    "android": {
+      "min_version": "Android 5.0 (API 21)",
+      "recommended": "Android 8.0+ (API 26)",
+      "ram": "2GB minimum, 4GB recommended",
+      "storage": "100MB"
+    },
+    "development": {
+      "node_js": "18.0+",
+      "python": "3.8+",
+      "react_native": "0.72+",
+      "android_studio": "Latest version"
+    }
+  },
+  "contact": {
+    "developer_email": "youssef.shtaiwi@spermanalyzerai.com",
+    "support_email": "support@spermanalyzerai.com",
+    "website": "https://spermanalyzerai.com",
+    "github": "https://github.com/youssef-shtaiwi"
+  },
+  "license": "Educational and Research Use",
+  "disclaimer": "This system is designed as a diagnostic aid and does not replace specialized medical consultation."
+}

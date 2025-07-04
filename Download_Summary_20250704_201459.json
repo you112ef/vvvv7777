@@ -1,0 +1,26 @@
+{
+  "package_info": {
+    "name": "Sperm Analyzer AI - Complete Package",
+    "version": "1.0.0",
+    "build_date": "2025-07-04T20:14:59.786242",
+    "developer": "Youssef Shtaiwi"
+  },
+  "files": {
+    "demo_apk": "SpermAnalyzerAI_Demo.apk",
+    "source_package": "SpermAnalyzerAI_SourceCode.apk",
+    "react_native_source": "ReactNative_Source/",
+    "backend_source": "Backend_Source/",
+    "readme_arabic": "README_العربية.md",
+    "readme_english": "README_English.md",
+    "installation_guide": "Installation_Guide.json"
+  },
+  "package_size": "27148 bytes",
+  "download_link": "/home/scrapybara/SpermAnalyzerAI_Complete_Package_20250704_201459.zip",
+  "installation_steps": [
+    "Download the ZIP package",
+    "Extract all files",
+    "Choose installation method (Demo APK or Build from Source)",
+    "Follow the README instructions",
+    "Install and enjoy!"
+  ]
+}
