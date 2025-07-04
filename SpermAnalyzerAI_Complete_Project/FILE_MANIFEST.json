@@ -1,0 +1,12 @@
+{
+  "project": "Sperm Analyzer AI",
+  "version": "1.0.0",
+  "created": "2025-07-04T18:33:49.319290",
+  "developer": "Youssef Shtaiwi",
+  "total_files": 3,
+  "files": [
+    "PROJECT_SUMMARY.md",
+    "create_package.py",
+    "project_exporter.py"
+  ]
+}
